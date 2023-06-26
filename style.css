@@ -1,0 +1,29 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+.social-icon {
+  font-size: 2rem;
+  margin-right: 20px;
+}
+
+.instagram-icon {
+  color: #c32aa3;
+}
+
+.shopee-icon {
+  color: #ee4d2d;
+}
+
+.whatsapp-icon {
+  color: #25d366;
+}
+
+section {
+  padding-top: 5rem;
+}
